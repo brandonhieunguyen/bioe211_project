@@ -16,7 +16,7 @@ tic
 nm=50; %number of myosin motors
 Fm=-2; %motor stall force in pN
 vu=-120; %unloaded motor velocity in nm/s
-nc=50; %number of molecular clutches
+nc=150; %number of molecular clutches
 kon=0.3; %On rate constant in 1/s
 koff=0.1; %Off rate constant in 1/s
 Fb=-2; %Bond rupture force in pN
